@@ -64,7 +64,6 @@ WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-
-WS.verifyElementPropertyValue(response, 'AddResponse.AddResult', '6')</verificationScript>
+</verificationScript>
    <wsdlAddress>http://dneonline.com/calculator.asmx?WSDL</wsdlAddress>
 </WebServiceRequestEntity>
